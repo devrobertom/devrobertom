@@ -98,7 +98,7 @@ Me chamo Roberto Maia, tenho 19 anos e sou natural de Sergipe. Concluí o ensino
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrobertom&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
